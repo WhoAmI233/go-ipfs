@@ -216,6 +216,8 @@ github.com/ipfs/interface-go-ipfs-core v0.0.5 h1:lePQnz+SqDupeDrVWtzEIjZlcYAbG8t
 github.com/ipfs/interface-go-ipfs-core v0.0.5/go.mod h1:VceUOYu+kPEy8Ev/gAhzXFTIfc/7xILKnL4fgZg8tZM=
 github.com/ipfs/interface-go-ipfs-core v0.0.6 h1:yf9D2cMLVgBMXHL+gs/HepDc/M7ZXQXYdoN0eXl7z9c=
 github.com/ipfs/interface-go-ipfs-core v0.0.6/go.mod h1:VceUOYu+kPEy8Ev/gAhzXFTIfc/7xILKnL4fgZg8tZM=
+github.com/ipfs/interface-go-ipfs-core v0.0.7-0.20190404070023-21a72398d981 h1:4+zIW8GciyWyEN7dMVULN+kBhkyUjOVGn5amgiJMOBI=
+github.com/ipfs/interface-go-ipfs-core v0.0.7-0.20190404070023-21a72398d981/go.mod h1:VceUOYu+kPEy8Ev/gAhzXFTIfc/7xILKnL4fgZg8tZM=
 github.com/ipfs/iptb v1.4.0 h1:YFYTrCkLMRwk/35IMyC6+yjoQSHTEcNcefBStLJzgvo=
 github.com/ipfs/iptb v1.4.0/go.mod h1:1rzHpCYtNp87/+hTxG5TfCVn/yMY3dKnLn8tBiMfdmg=
 github.com/ipfs/iptb-plugins v0.0.2 h1:JZp4h/+7f00dY4Epr8gzF+VqKITXmVGsZabvmZp7E9I=
